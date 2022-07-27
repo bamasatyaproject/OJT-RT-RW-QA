@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login menggunakan username dan password dengan menginputkan spesial karakter</description>
+   <name>LGN-TS-005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1806915-afb9-4d1e-8ae4-3c93ea84bcbf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>697c452c-9ff3-4036-adc6-2d441c8e9dbc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff8466a4-1a09-4936-9d0d-b3fe5f25c862</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0bb17430-d9d5-48e9-a265-82e32f6ee08c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>697c452c-9ff3-4036-adc6-2d441c8e9dbc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff8466a4-1a09-4936-9d0d-b3fe5f25c862</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0bb17430-d9d5-48e9-a265-82e32f6ee08c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

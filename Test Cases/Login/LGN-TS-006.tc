@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login menggunakan username dengan spasi diawal</description>
+   <name>LGN-TS-006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fc9de65-3421-4fbd-9db1-f7f6fff34bfd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33b433b7-c735-495a-8193-2da4e6285a06</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fbd46b04-8605-44a3-bb18-83cc5e2fb56f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f191795-75c2-4dc7-b36e-325d7b013b2e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33b433b7-c735-495a-8193-2da4e6285a06</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fbd46b04-8605-44a3-bb18-83cc5e2fb56f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f191795-75c2-4dc7-b36e-325d7b013b2e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

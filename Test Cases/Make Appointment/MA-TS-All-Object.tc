@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengisi semua data yang diperlukan untuk membuat appointment tanpa ada field yang dikosongi</description>
+   <name>MA-TS-All-Object</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9dd66f5-4fa2-410e-bb83-285a36fd6c4c</testCaseGuid>
+</TestCaseEntity>

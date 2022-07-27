@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan logout dengan menekan tombol Logout pada menu profile</description>
+   <name>LGT-TS-002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23cb2975-c0e4-45e2-9af6-99773df1804b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ec6c3a3-299d-4d8c-bed5-0bf6dce70c06</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea76d493-fcf6-41b0-8a25-9f7c858233c5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27d81661-e023-4616-8537-f56b302c114f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ec6c3a3-299d-4d8c-bed5-0bf6dce70c06</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea76d493-fcf6-41b0-8a25-9f7c858233c5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>27d81661-e023-4616-8537-f56b302c114f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

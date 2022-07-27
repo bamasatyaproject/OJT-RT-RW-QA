@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Logout</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>ca97a1d4-962c-4fc8-9a5d-56fff63d36ea</testSuiteGuid>
+   <testCaseLink>
+      <guid>92be1484-0cbb-4d5a-b881-51cbd90bdda5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Logout/LGT-TS-001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>11ef5b31-8971-4509-9462-ca55498f5500</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>11ef5b31-8971-4509-9462-ca55498f5500</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>f6219b26-4489-4d04-ba31-2291e8853050</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>11ef5b31-8971-4509-9462-ca55498f5500</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>68f8480e-2858-4bc3-ac3b-cf02c1ade311</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>11ef5b31-8971-4509-9462-ca55498f5500</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>ab8bb14d-dc5b-4225-8da7-395b0d1b3706</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b2759aff-90a3-4cf2-98a0-cb55d1507cb9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Logout/LGT-TS-002</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a5cc5040-78b1-4167-9868-b855742b107b</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a5cc5040-78b1-4167-9868-b855742b107b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>5ec6c3a3-299d-4d8c-bed5-0bf6dce70c06</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a5cc5040-78b1-4167-9868-b855742b107b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>ea76d493-fcf6-41b0-8a25-9f7c858233c5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a5cc5040-78b1-4167-9868-b855742b107b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>27d81661-e023-4616-8537-f56b302c114f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

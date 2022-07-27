@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login menggunakan data valid yang terdapat pada halaman login</description>
+   <name>LGN-TS-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d6fe889-e3d5-4f20-bf43-e050f03e110c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ada5fb0f-252c-4001-89ce-aacceff78a90</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f6e43b9-ec70-42f3-b3f2-954c9f600378</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0ed96b0f-531c-4949-9f87-ac1d495b59af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ada5fb0f-252c-4001-89ce-aacceff78a90</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8f6e43b9-ec70-42f3-b3f2-954c9f600378</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ed96b0f-531c-4949-9f87-ac1d495b59af</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
